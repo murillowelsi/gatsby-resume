@@ -39,33 +39,33 @@ module.exports = {
   ],
   jobs: [
     {
-      company: "Lendico",
-      begin: {
-        month: 'apr',
-        year: '2018'
-      },
-      duration: null,
-      occupation: "Frontend developer",
-      description: "I integrate the Frontend team responsible for developing and maintaining the online lending platform."
-  
-    }, {
-      company: "Anapro",
+      company: "Sensedia",
       begin: {
         month: 'dec',
-        year: '2016'
+        year: '2019'
       },
-      duration: '1 yr e 5 mos',
-      occupation: "Fullstack developer",
-      description: "Development and maintenance, corrective and preventive, of web applications for the real estate market."
+      duration: null,
+      occupation: "Quality Assurance Analyst",
+      description: "Created accurate and efficient test scripts using Java/REST Assured/JUnit to execute and manage automated testing of client APIs.<br />Created Continuous Integration environment using Jenkins, in order to keep tests running in every new commit from developers, enabling continuous testing and increasing the speed of testing."
+  
     }, {
-      company: "Anapro",
+      company: "Viceri",
       begin: {
-        month: 'set',
-        year: '2012'
+        month: 'aug',
+        year: '2019'
       },
-      duration: '4 yrs e 3 mos',
-      occupation: "Support Technician",
-      description: "Responsible for the implementation and parameterization of the system, training and customer support. Acting also in person in real estate launches guaranteeing the success and good use of the tool."
+      duration: '4 mos',
+      occupation: "Quality Assurance Analyst",
+      description: "Introduced the BDD approach, with the goal of fostering collaboration between business experts and technical teams, removing gaps in understanding between the team, and producing living documentation that guides development through the behavior that software should have. Created the first test scripts using Ruby/Capybara/Rspec/Cucumber stack to run and manage web application automated testing, validating UI and APIs, reducing regression and confirmation tests time from 4 hours to 1 minute per API. Created performance test scripts using JMeter, in order to send large number of requests in the developed APIs, simulating events like Black Friday. Development and delivery to the client of API request collections, so that they could perform user acceptance testing on the product."
+    }, {
+      company: "Kikker",
+      begin: {
+        month: 'may',
+        year: '2019'
+      },
+      duration: '3 mos',
+      occupation: "Quality Assurance Analyst",
+      description: "Created integration scripts using Ruby and Shell Scripts to automatically collect data from client databases (SQL Server, MySQL, Oracle and Postgres). Wrote and optimized test cases to maximize success of manual software testing with consistent, thorough approaches. Collaborated with developers and product owners to stay current on product features and intended functionality."
   
     },
     /* ... */
