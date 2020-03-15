@@ -17,20 +17,32 @@ module.exports = {
       level: 70
     },
     {
+      name: 'BDD',
+      level: 100
+    },
+    {
       name: 'APIs',
       level: 90
     },
     {
-      name: 'BDD',
+      name: 'Postman',
+      level: 100
+    },
+    {
+      name: 'Jenkins',
+      level: 90
+    },
+    {
+      name: 'Devops',
+      level: 100
+    },
+    {
+      name: 'Scrum',
       level: 100
     },
     {
       name: 'Automated Tests',
       level: 70
-    },
-    {
-      name: 'Postman',
-      level: 100
     },
     {
       name: 'Git',
