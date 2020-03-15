@@ -1,15 +1,15 @@
 module.exports = {
-  siteTitle: 'Hi! I\'m Francisco!',
+  siteTitle: 'Hi! I\'m Murillo Welsi!',
   siteDescription: `Create your online curriculum in just a few minutes with this starter`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
-  authorName: 'Francisco Santos',
-  twitterUsername: '_franciscodf',
-  githubUsername: 'santosfrancisco',
+  authorName: 'Murillo Welsi',
+  twitterUsername: 'murillowelsi  ',
+  githubUsername: 'murillowelsi',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
-    In 2012 I started working as a support technician and I approached the developers.
-    In 2015, I started to study C # and started to contribute with the team giving maintenance in an application in C # and .NET. <br />
-    I currently work as a frontend developer and mainly work with <strong>Javascript, NodeJS e React.</strong>`,
+  authorDescription: `Quality Assurance Analyst, passionate about what I do. Always interested in how I can improve my testing techniques. I also like DevOps culture, Cloud platforms and Infrastructure tools. <br />
+    In 2017, I started working as a QA Analyst and never stopped. In 2019, I obtained the CTFL (Certified Tester Foundation Level) certification, recognized worldwide. <br />
+    I currently work as a frontend developer and mainly work with <strong>Javascript, NodeJS e React.</strong> <br />
+    Hobbies: Music and Triathlon </strong>`,
   skills: [
     {
       name: 'HTML',
@@ -70,13 +70,13 @@ module.exports = {
     /* ... */
   ],
   social: {
-    twitter: "https://twitter.com/_franciscodf",
-    linkedin: "https://www.linkedin.com/in/santos-francisco",
-    github: "https://github.com/santosfrancisco",
-    email: "yoshi.df@gmail.com"
+    twitter: "https://twitter.com/murillowelsi",
+    linkedin: "https://www.linkedin.com/in/murillowelsi",
+    github: "https://github.com/murillowelsi",
+    email: "murillo.welsi@gmail.com"
   },
-  siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
-  pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
+  siteUrl: 'https://murillowelsi.github.io/gatsby-resume',
+  pathPrefix: '/gatsby-resume', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpeg',
   googleAnalyticsId: 'UA-000000000-1',
   background_color: '#ffffff',
@@ -85,7 +85,7 @@ module.exports = {
   icon: 'src/assets/gatsby-icon.png',
   headerLinks: [
     {
-      label: 'Francisco Santos',
+      label: 'Murillo Welsi',
       url: '/',
     }
   ]
