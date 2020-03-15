@@ -70,7 +70,7 @@ export default styled(Repositories)`
 
   .repositories__repo-link {
     text-decoration: none;
-    color: #25303B;
+    color: #FFFFFF;
   }
 
   .repositories__repo-date {
