@@ -232,7 +232,7 @@ export default createGlobalStyle`
     padding-right: 0;
     padding-top: 0;
     margin-bottom: 1.45rem;
-    color: #ba68c8;
+    color: #FFFFFF;
     font-weight: bold;
     text-rendering: optimizeLegibility;
     font-size: 2.25rem;

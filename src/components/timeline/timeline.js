@@ -52,7 +52,7 @@ export default styled(Timeline)`
     float: left;
     margin: 85px 0 0 0;
     border-radius: 6px;
-    border: 1px solid #25303B;
+    border: 1px solid #883997;
   }
   .timeline__date {
     display: block;
@@ -67,7 +67,7 @@ export default styled(Timeline)`
     font-size: 12px;
     font-weight: 900;
     text-transform: uppercase;
-    background: #ba68c8;
+    background: #883997;
     color: #fff;
     box-shadow: 0 0 0 7px #fff;
   }
@@ -112,10 +112,10 @@ export default styled(Timeline)`
     float: right;
   }
   .timeline__title {
-    background: #ba68c8;
+    background: #883997;
   }
   .timeline__title:after {
-    background: #25303B;
+    background: #883997;
   }
 
   .timeline__title--small {
