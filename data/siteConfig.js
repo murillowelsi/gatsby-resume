@@ -6,34 +6,35 @@ module.exports = {
   twitterUsername: 'murillowelsi  ',
   githubUsername: 'murillowelsi',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `Quality Assurance Analyst, passionate about what I do. Always interested in how I can improve my testing techniques. I also like DevOps culture, Cloud platforms and Infrastructure tools. <br />
-    In 2017, I started working as a QA Analyst and never stopped. In 2019, I obtained the CTFL (Certified Tester Foundation Level) certification, recognized worldwide. <br />
-    I currently work as a frontend developer and mainly work with <strong>Javascript, NodeJS e React.</strong> <br />
+  authorDescription: `Quality Assurance Analyst, passionate about what I do. Always interested in how I can improve my testing techniques. I also like DevOps culture, Cloud platforms and Infrastructure tools.<br />
+    In 2017, I started working as a QA Analyst and never stopped.<br />
+    In 2019, I got the CTFL (Certified Tester Foundation Level) certification, recognized worldwide.<br />
+    I currently work as a frontend developer and mainly work with <strong>Javascript, NodeJS e React.<br /><br />
     Hobbies: Music and Triathlon </strong>`,
   skills: [
     {
-      name: 'HTML',
+      name: 'Ruby',
       level: 70
     },
     {
-      name: 'CSS',
-      level: 60
+      name: 'APIs',
+      level: 90
     },
     {
-      name: 'Javascript',
-      level: 50
+      name: 'BDD',
+      level: 100
     },
     {
-      name: 'NodeJs',
-      level: 40
+      name: 'Automated Tests',
+      level: 70
     },
     {
-      name: 'React',
-      level: 60
+      name: 'Postman',
+      level: 100
     },
     {
       name: 'Git',
-      level: 70
+      level: 90
     }
   ],
   jobs: [
