@@ -7,9 +7,9 @@ const Wrapper = styled.main.attrs({
   border-radius: 3px;
   width: 80%;
   max-width: 960px;
-  border-bottom: 1px solid #121215;
+  border-bottom: 1px solid #ebf2f6;
   word-wrap: break-word;
-  background-color: #121212;
+  background-color: #1e252b;
   margin: 0px auto 30px auto;
   top: -100px;
   padding: 50px;
