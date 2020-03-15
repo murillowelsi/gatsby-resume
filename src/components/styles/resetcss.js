@@ -200,7 +200,7 @@ export default createGlobalStyle`
     box-sizing: inherit;
   }
   body {
-    color: hsla(0, 0%, 0%, 0.8);
+    color: #FFFFFF;
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
       Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
     text-decoration: none;
@@ -232,7 +232,7 @@ export default createGlobalStyle`
     padding-right: 0;
     padding-top: 0;
     margin-bottom: 1.45rem;
-    color: inherit;
+    color: #ba68c8;
     font-weight: bold;
     text-rendering: optimizeLegibility;
     font-size: 2.25rem;

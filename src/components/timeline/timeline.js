@@ -35,7 +35,7 @@ export default styled(Timeline)`
     margin: 70px 0 0 -1px;
     width: 1px;
     height: calc(100% - 70px);
-    background: #25303B;
+    background: #ba68c8;
   }
   .timeline__item {
     width: 100%;
@@ -67,7 +67,7 @@ export default styled(Timeline)`
     font-size: 12px;
     font-weight: 900;
     text-transform: uppercase;
-    background: #25303B;
+    background: #ba68c8;
     color: #fff;
     box-shadow: 0 0 0 7px #fff;
   }
@@ -112,7 +112,7 @@ export default styled(Timeline)`
     float: right;
   }
   .timeline__title {
-    background: #25303B;
+    background: #ba68c8;
   }
   .timeline__title:after {
     background: #25303B;

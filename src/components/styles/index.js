@@ -5,5 +5,3 @@ export {
   GlobalStyle,
   ResetCSS
 }
-
-

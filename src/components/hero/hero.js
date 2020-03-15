@@ -8,6 +8,7 @@ const HeroContainer = styled.div`
   display: table;
   width: 100%;
   overflow: hidden;
+  background-color: #883997;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -45,7 +46,7 @@ class Hero extends React.Component {
 export default styled(Hero)`
   
   ${p => `background-image: url(${p.heroImg || withPrefix(siteConfig.siteCover)});`}
-  height: 70vh;
+  height: 40vh;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;

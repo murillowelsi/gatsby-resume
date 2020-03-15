@@ -1,6 +1,8 @@
 import { createGlobalStyle } from 'styled-components'
 
 export default createGlobalStyle`
-  ${'' /* put your global css here */}
+  ${`html {
+    background: #212121;
+  }`}
 
 `
